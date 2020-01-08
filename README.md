@@ -1,3 +1,4 @@
+<table><tr><td align=center>
 <a name="1" id="1" target="_blank"></a> <span id="1"></span>
 <a name="2" id="2" target="_blank"></a> <span id="2"></span>
 <a name="3" id="3" target="_blank"></a> <span id="3"></span>
@@ -130,3 +131,4 @@
 <hr>
 <h4>手机上长按并复制下列链接或二维码分享本文章：</h4>https://github.com/lduuv275/www/blob/master/README.md#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/lduuv275/www/blob/master/README.md%231" title="分享本文章"></img
 
+</td></tr></table>
