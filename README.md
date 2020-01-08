@@ -10,7 +10,7 @@
 
 <details><p><summary><strong><a href="https://github.com/lduuv275/ntdtv/blob/master/gb/contribute.md#1">新唐人电视台投稿</a>  <a href="https://github.com/lduuv275/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>，本平台固定短网址 https://git.io/*8</strong></p></summary></details>
 <details><p><summary><strong>个别浏览器打不开或没显示图片，请刷新一下，推荐用海外浏览器打开本平台</strong></p></summary></details>
-<h1><details><p><summary><strong>下载一键翻墙软件</strong></p></summary></details></h1>
+<h1><details><p><summary><strong>下载一键翻墙软件</strong></p></h1>
 <details><p><summary><a href="https://github.com/SzzdOgate/update/raw/master/extras/SzzdOgate.apk?fldfh2">神州正道（手机版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p></summary></details>
 <img src="https://gitlab.com/szzdlab/www/raw/master/t/sz.jpg"><br>
 <details><p><summary><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/oGate.apk?fldfh2">网门（手机版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p></summary></details>
@@ -22,7 +22,7 @@
 <details><p><summary><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/SzzdOgateTV.apk?fldfh2">神州正道安卓（电视机顶盒版）</a></p></summary></details>
 
 <hr>
-<h1><details><p><summary><strong>国内看不到的新闻同步</strong></p></summary></details></h1>
+<h1><details><p><summary><strong>国内看不到的新闻同步</strong></p></h1>
 <details><p><summary><a target="_blank" href="https://github.com/lduuv275/djy/blob/master/gb/nsc413.md?flntdtv#1">大纪元大陆时事</a></p></summary></details>
 <details><p><summary><a target="_blank" href="https://github.com/lduuv275/djy/blob/master/gb/n24hr.md?flntdtv#1">大纪元全球热点</a></p></summary></details>
 <details><p><summary><a target="_blank" href="https://github.com/lduuv275/djy/blob/master/gb/news392.md?flntdtv#1">大纪元时事评论</a></p></summary></details>
@@ -31,7 +31,7 @@
 <details><p><summary><a target="_blank" href="https://github.com/lduuv275/ntdtv/blob/master/gb/prog207_1.md?flntdtv#1">新唐人时事评论</a></p></summary></details>
 <details><p><summary><a target="_blank" href="https://github.com/gfw-breaker/banned-news1/blob/master/README.md">世界各地新闻</a></p></summary></details>
 <hr>
-<h1><details><p><summary><strong>热门专题</strong></p></summary></details></h1>
+<h1><p><strong>热门专题</strong></p></h1>
 <details><p><summary><a target="_blank" href="https://github.com/lduuv275/ntdtv/blob/master/gb/prog1745_1.md?flntdtv#1">中美贸易战</a></p></summary></details>
 <details><p><summary><a target="_blank" href="https://github.com/lduuv275/ntdtv/blob/master/gb/prog205_1.md?flntdtv#1">香港反送中</a></p></summary></details>
 <details><p><summary><a target="_blank" href="https://github.com/lduuv275/ntdtv/blob/master/gb/prog1138_1.md?flntdtv#1">中国时局</a></p></summary></details>
@@ -77,7 +77,7 @@
 </p>
 <p>
 <hr>
-<h1><details><p><summary><strong>中国人权</strong></p></summary></details></h1>
+<h1><details><p><summary><strong>中国人权</strong></p></h1>
 <details><p><summary><a target="_blank" href="https://github.com/lduuv275/ntdtv/blob/master/gb/prog1135_1.md?fldflduuv275#1">新唐人大陆人权</a></p></summary></details>
 <details><p><summary><a target="_blank" href="https://github.com/lduuv275/djy/blob/master/gb/ncid278.md?fldflduuv275#1">大纪元中国人权</a></p></summary></details>
 <details><p><summary><a target="_blank" href="https://github.com/lduuv275/djy/blob/master/gb/nf6123.md?fldflduuv275#1">起诉江泽民</a></p></summary></details>
@@ -92,7 +92,7 @@
 或被发往各国商务部，作为该企业产品是否参与中共情报和间谍活动的依据。<br>
 希望各企业,遵守国内宪法,秉承道义良知,不要阻止弱势群体的声音。<a target="_blank" href="https://github.com/lduuv275/djy/blob/master/gb/rq.md?fldflduuv275#1">企业的前车之鉴</a>
 <hr>
-<h1><details><p><summary><strong>数点梅花天地春</strong></p></summary></details></h1>
+<h1><details><p><summary><strong>数点梅花天地春</strong></p></h1>
 <img src="https://raw.githubusercontent.com/lduuv275/www/master/t/01.jpg">
 <h1><strong><a href="https://s3-us-west-1.amazonaws.com/ogaten/show.htm?ogQuit.aspx&from=852" rel="nofollow">点击这里 退出中共</a></strong></h1><br>
 <br>
