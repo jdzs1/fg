@@ -12,7 +12,7 @@
 <details><p><summary><strong><a href="https://github.com/lduuv275/ntdtv/blob/master/gb/contribute.md#1">新唐人电视台投稿</a>  <a href="https://github.com/lduuv275/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>，本平台固定短网址 https://git.io/*8</strong></p></summary></details>
 <details><p><summary><strong>打开本平台注意::pencil:&nbsp;&nbsp;&nbsp;&nbsp;个别浏览器打不开或没显示图片，请刷新一下</strong></p></summary>推荐用海外浏览器打开本平台</details>
 <h1><p><strong>下载一键翻墙软件</strong></p></h1>
-<table><tr><td  align=center>
+
 <details><p><summary><a href="https://github.com/SzzdOgate/update/raw/master/extras/SzzdOgate.apk?fldfh2">神州正道（手机版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p></summary><img src="https://gitlab.com/szzdlab/www/raw/master/t/sz.jpg"><br></details>
 <details><p><summary><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/oGate.apk?fldfh2">网门（手机版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p></summary></details>
 <details><p><summary><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/um.apk?raw=true">无界浏览（手机版）</a></p></summary></details>
@@ -22,7 +22,6 @@
 <details><p><summary><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/szzdogate.rar?fldfh2">神州正道（网页版）</a></p></summary></details>
 <details><p><summary><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/SzzdOgateTV.apk?fldfh2">神州正道安卓（电视机顶盒版）</a></p></summary></details>
 
-</td></tr></table>
 <hr>
 <h1><p><strong>国内看不到的新闻同步</strong></p></h1>
 <details><p><summary><a target="_blank" href="https://github.com/lduuv275/djy/blob/master/gb/nsc413.md?flntdtv#1">大纪元大陆时事</a></p></summary></details>
