@@ -13,7 +13,7 @@
 <details><p><summary><strong>打开本平台注意::pencil:&nbsp;&nbsp;&nbsp;&nbsp;个别浏览器打不开或没显示图片，请刷新一下</strong></p></summary>推荐用海外浏览器打开本平台</details>
 <h1><p><strong>下载一键翻墙软件</strong></p></h1>
 
-<details><p><summary><a href="https://github.com/SzzdOgate/update/raw/master/extras/SzzdOgate.apk?fldfh2">神州正道（手机版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p></summary><img src="https://gitlab.com/szzdlab/www/raw/master/t/sz.jpg"><br></details>
+<details><p><summary><a href="https://github.com/SzzdOgate/update/raw/master/extras/SzzdOgate.apk?fldfh2">神州正道（手机版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p></summary></details>
 <details><p><summary><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/oGate.apk?fldfh2">网门（手机版）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p></summary></details>
 <details><p><summary><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/um.apk?raw=true">无界浏览（手机版）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></p></summary></details>
 <details><p><summary><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/fgp.zip?fldfh2">自由门（电脑版）&nbsp;&nbsp;&nbsp;</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p></summary></details>
