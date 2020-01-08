@@ -15,12 +15,12 @@
 
 <details><p><summary><a href="https://github.com/SzzdOgate/update/raw/master/extras/SzzdOgate.apk?fldfh2">神州正道（手机版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p></summary><img src="https://gitlab.com/szzdlab/www/raw/master/t/sz.jpg"><br></details>
 <details><p><summary><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/oGate.apk?fldfh2">网门（手机版）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p></summary></details>
-<details><p><summary><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/um.apk?raw=true">无界浏览（手机版）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></p></summary></details>
+<details><p><summary><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/um.apk?raw=true">无界浏览（手机版）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></p></summary></details>
 <details><p><summary><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/fgp.zip?fldfh2">自由门（电脑版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p></summary></details>
 <details><p><summary><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/u.zip?fldfh2">无界浏览（电脑版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p></summary></details>
-<details><p><summary><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/iPPOTV.zip">爱博电视（电脑版）</a></p></summary></details>
-<details><p><summary><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/szzdogate.rar?fldfh2">神州正道（网页版）</a></p></summary></details>
-<details><p><summary><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/SzzdOgateTV.apk?fldfh2">神州正道安（电视机顶盒版）</a></p></summary></details>
+<details><p><summary><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/iPPOTV.zip">爱博电视（电脑版）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></p></summary></details>
+<details><p><summary><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/szzdogate.rar?fldfh2">神州正道（网页版）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></p></summary></details>
+<details><p><summary><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/SzzdOgateTV.apk?fldfh2">神州正道安（电视机顶盒版）&nbsp;&nbsp;&nbsp;&nbsp;</a></p></summary></details>
 
 <hr>
 <h1><p><strong>国内看不到的新闻同步</strong></p></h1>
