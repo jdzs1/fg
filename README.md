@@ -39,6 +39,24 @@
 <details><p><summary><a target="_blank" href="https://github.com/lduuv275/ntdtv/blob/master/gb/prog1647_1.md?flntdtv#1">共产党百年真相</a></p></summary></details>
 <details><p><summary><a target="_blank" href="https://github.com/lduuv275/ntdtv/blob/master/gb/prog447_1.md?flntdtv#1">聚焦“中共活摘器官”暴行</a></p></summary></details>
 
+<hr>
+<h1><p><strong>中国人权</strong></p></h1>
+<details><p><summary><a target="_blank" href="https://github.com/lduuv275/ntdtv/blob/master/gb/prog1135_1.md?fldflduuv275#1">新唐人大陆人权</a></p></summary></details>
+<details><p><summary><a target="_blank" href="https://github.com/lduuv275/djy/blob/master/gb/ncid278.md?fldflduuv275#1">大纪元中国人权</a></p></summary></details>
+<details><p><summary><a target="_blank" href="https://github.com/lduuv275/djy/blob/master/gb/nf6123.md?fldflduuv275#1">起诉江泽民</a></p></summary></details>
+<details><p><summary><a target="_blank" href="https://github.com/lduuv275/ntdtv/blob/master/gb/prog1704_1.md?fldflduuv275#1">百年红祸</a></p></summary></details>
+<details><p><summary><a href="https://github.com/lduuv275/djy/blob/master/gb/mh/mhtg.md#1">明慧网通告</a></p></summary></details>
+<details><p><summary><a target="_blank" href="https://github.com/lduuv275/ntdtv/blob/master/gb/prog422209_1.md?fldflduuv275#1">追查中共人权迫害者</a></p></summary>
+国内《宪法》<br>
+第35条　中华人民共和国公民有言论、出版、集会、结社、游行、示威的自由。<br>
+第36条　中华人民共和国公民有宗教信仰自由。<br>
+本平台为弱势群体发声，浏览器屏蔽，是在协助中共迫害人权。<br>
+即日起，浏览器企业参与对本平台屏蔽的证据可能被按<a target="_blank" href="https://github.com/lduuv275/djy/blob/master/gb/mh/mhtg.md?fldflduuv275#1">《明慧网通告》</a>收集,<br>
+或被发往各国商务部，作为该企业产品是否参与中共情报和间谍活动的依据。<br>
+希望各企业,遵守国内宪法,秉承道义良知,不要阻止弱势群体的声音。<a target="_blank" href="https://github.com/lduuv275/djy/blob/master/gb/rq.md?fldflduuv275#1">企业的前车之鉴</a>
+</details>
+
+
 
 <hr><h1><p>聚缘阁代理</p></h1>
 <p>
@@ -62,35 +80,8 @@
 <p>
 <a id="user-content-美国之音网高速入口" class="anchor" href="#%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%E7%BD%91%E9%AB%98%E9%80%9F%E5%85%A5%E5%8F%A3" aria-hidden="true"><svg class="octicon octicon-link" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><a href="http://df91.bmvl.ru/32587/18" rel="nofollow">美国之音网高速入口</a>
 </p>
-<hr>
-<p>
-<a id="user-content-24小时实事禁闻" class="anchor" href="#24%E5%B0%8F%E6%97%B6%E5%AE%9E%E4%BA%8B%E7%A6%81%E9%97%BB" aria-hidden="true"><svg class="octicon octicon-link" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><a href="https://git.io/fj3Go" rel="nofollow">24小时实事禁闻</a>
-</p>
-<p>
-<a id="user-content-禁书在线阅读" class="anchor" href="#%E7%A6%81%E4%B9%A6%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB" aria-hidden="true"><svg class="octicon octicon-link" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><a href="https://github.com/txyzum203/djy/blob/master/gb/9p.md?flntdtv#1">禁书在线阅读</a>
-</p>
-<p>
-<a id="user-content-安卓翻墙软件" class="anchor" href="#%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6" aria-hidden="true"><svg class="octicon octicon-link" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><a href="https://git.io/afq" rel="nofollow">安卓翻墙软件</a>
-</p>
-<p>
-<a id="user-content-全球禁闻聚合" class="anchor" href="#%E5%85%A8%E7%90%83%E7%A6%81%E9%97%BB%E8%81%9A%E5%90%88" aria-hidden="true"><svg class="octicon octicon-link" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><a href="https://github.com/gfw-breaker/banned-news1/blob/master/README.md">全球禁闻聚合</a>
-</p>
-<p>
-<hr>
-<h1><p><strong>中国人权</strong></p></h1>
-<details><p><summary><a target="_blank" href="https://github.com/lduuv275/ntdtv/blob/master/gb/prog1135_1.md?fldflduuv275#1">新唐人大陆人权</a></p></summary></details>
-<details><p><summary><a target="_blank" href="https://github.com/lduuv275/djy/blob/master/gb/ncid278.md?fldflduuv275#1">大纪元中国人权</a></p></summary></details>
-<details><p><summary><a target="_blank" href="https://github.com/lduuv275/djy/blob/master/gb/nf6123.md?fldflduuv275#1">起诉江泽民</a></p></summary></details>
-<details><p><summary><a target="_blank" href="https://github.com/lduuv275/ntdtv/blob/master/gb/prog1704_1.md?fldflduuv275#1">百年红祸</a></p></summary></details>
-<details><p><summary><a href="https://github.com/lduuv275/djy/blob/master/gb/mh/mhtg.md#1">明慧网通告</a></p></summary></details>
-<details><p><summary><a target="_blank" href="https://github.com/lduuv275/ntdtv/blob/master/gb/prog422209_1.md?fldflduuv275#1">追查中共人权迫害者</a></p></summary></details>
-国内《宪法》<br>
-第35条　中华人民共和国公民有言论、出版、集会、结社、游行、示威的自由。<br>
-第36条　中华人民共和国公民有宗教信仰自由。<br>
-本平台为弱势群体发声，浏览器屏蔽，是在协助中共迫害人权。<br>
-即日起，浏览器企业参与对本平台屏蔽的证据可能被按<a target="_blank" href="https://github.com/lduuv275/djy/blob/master/gb/mh/mhtg.md?fldflduuv275#1">《明慧网通告》</a>收集,<br>
-或被发往各国商务部，作为该企业产品是否参与中共情报和间谍活动的依据。<br>
-希望各企业,遵守国内宪法,秉承道义良知,不要阻止弱势群体的声音。<a target="_blank" href="https://github.com/lduuv275/djy/blob/master/gb/rq.md?fldflduuv275#1">企业的前车之鉴</a>
+
+
 <hr>
 <h1><p><strong>数点梅花天地春</strong></p></h1>
 <img src="https://raw.githubusercontent.com/lduuv275/www/master/t/01.jpg">
