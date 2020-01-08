@@ -20,7 +20,7 @@
 <details><p><summary><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/u.zip?fldfh2">无界浏览（电脑版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p></summary></details>
 <details><p><summary><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/iPPOTV.zip">爱博电视（电脑版）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></p></summary></details>
 <details><p><summary><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/szzdogate.rar?fldfh2">神州正道（网页版）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></p></summary></details>
-<details><p><summary><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/SzzdOgateTV.apk?fldfh2">神州正道（电视机顶盒版）&nbsp;&nbsp;&nbsp;&nbsp;</a></p></summary></details>
+<details><p><summary><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/SzzdOgateTV.apk?fldfh2">神州正道（电视机顶盒版）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></p></summary></details>
 
 <hr>
 <h1><p><strong>国内看不到的新闻同步</strong></p></h1>
@@ -30,7 +30,7 @@
 <details><p><summary><a target="_blank" href="https://github.com/lduuv275/ntdtv/blob/master/gb/prog204_1.md?flntdtv#1">新唐人大陆新闻</a></p></summary></details>
 <details><p><summary><a target="_blank" href="https://github.com/lduuv275/ntdtv/blob/master/gb/prog202_1.md?flntdtv#1">新唐人国际新闻</a></p></summary></details>
 <details><p><summary><a target="_blank" href="https://github.com/lduuv275/ntdtv/blob/master/gb/prog207_1.md?flntdtv#1">新唐人时事评论</a></p></summary></details>
-<details><p><summary><a target="_blank" href="https://github.com/gfw-breaker/banned-news1/blob/master/README.md">世界各地新闻</a></p></summary></details>
+<details><p><summary><a target="_blank" href="https://github.com/gfw-breaker/banned-news1/blob/master/README.md">世界各地新闻&nbsp;&nbsp;</a></p></summary></details>
 <hr>
 <h1><p><strong>热门专题</strong></p></h1>
 <details><p><summary><a target="_blank" href="https://github.com/lduuv275/ntdtv/blob/master/gb/prog1745_1.md?flntdtv#1">中美贸易战</a></p></summary></details>
