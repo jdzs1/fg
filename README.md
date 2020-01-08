@@ -20,7 +20,7 @@
 <details><p><summary><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/u.zip?fldfh2">无界浏览（电脑版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p></summary></details>
 <details><p><summary><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/iPPOTV.zip">爱博电视（电脑版）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></p></summary></details>
 <details><p><summary><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/szzdogate.rar?fldfh2">神州正道（网页版）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></p></summary></details>
-<details><p><summary><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/SzzdOgateTV.apk?fldfh2">神州正道（电视机顶盒版）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></p></summary></details>
+<details><p><summary><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/SzzdOgateTV.apk?fldfh2">神州正道（电视机顶盒版）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></p></summary></details>
 
 <hr>
 <h1><p><strong>国内看不到的新闻同步</strong></p></h1>
@@ -44,9 +44,9 @@
 <h1><p><strong>中国人权</strong></p></h1>
 <details><p><summary><a target="_blank" href="https://github.com/lduuv275/ntdtv/blob/master/gb/prog1135_1.md?fldflduuv275#1">新唐人大陆人权</a></p></summary></details>
 <details><p><summary><a target="_blank" href="https://github.com/lduuv275/djy/blob/master/gb/ncid278.md?fldflduuv275#1">大纪元中国人权</a></p></summary></details>
-<details><p><summary><a target="_blank" href="https://github.com/lduuv275/djy/blob/master/gb/nf6123.md?fldflduuv275#1">起诉江泽民</a></p></summary></details>
-<details><p><summary><a target="_blank" href="https://github.com/lduuv275/ntdtv/blob/master/gb/prog1704_1.md?fldflduuv275#1">百年红祸</a></p></summary></details>
-<details><p><summary><a href="https://github.com/lduuv275/djy/blob/master/gb/mh/mhtg.md#1">明慧网通告</a></p></summary></details>
+<details><p><summary><a target="_blank" href="https://github.com/lduuv275/djy/blob/master/gb/nf6123.md?fldflduuv275#1">起诉江泽民&nbsp;&nbsp;&nbsp;&nbsp;</a></p></summary></details>
+<details><p><summary><a target="_blank" href="https://github.com/lduuv275/ntdtv/blob/master/gb/prog1704_1.md?fldflduuv275#1">百年红祸&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></p></summary></details>
+<details><p><summary><a href="https://github.com/lduuv275/djy/blob/master/gb/mh/mhtg.md#1">明慧网通告&nbsp;&nbsp;&nbsp;&nbsp;</a></p></summary></details>
 <details><p><summary><a target="_blank" href="https://github.com/lduuv275/ntdtv/blob/master/gb/prog422209_1.md?fldflduuv275#1">追查中共人权迫害者</a></p></summary>
 国内《宪法》<br>
 第35条　中华人民共和国公民有言论、出版、集会、结社、游行、示威的自由。<br>
