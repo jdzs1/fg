@@ -8,7 +8,7 @@
 <a name="8" id="8" target="_blank"></a> <span id="8"></span>
 <div align="center">
 <img src="https://raw.githubusercontent.com/liahn236/www/master/t/fq1.jpg"><br>
-<p><strong>个别浏览器打不开或没显示图片，请刷新一下，推荐用海外浏览器打开本平台</strong></p>
+<p><strong>个别浏览器打不开或没显示图片，<strong><strong><strong>请刷新一下</strong></strong></strong>，推荐用海外浏览器打开本平台</strong></p>
 <p><strong><a href="https://github.com/liahn236/ntdtv/blob/master/gb/contribute.md#1">新唐人电视台投稿</a>  <a href="https://github.com/liahn236/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>，本平台固定短网址 https://git.io/*8</strong></p>
 
 <h1><details><summary><strong>热门专题</strong></summary></h1>
