@@ -21,7 +21,7 @@
 <p><a target="_blank" href="https://github.com/liahn236/ntdtv/blob/master/gb/prog447_1.md?flntdtv#1">聚焦“中共活摘器官”暴行</a></p>
 </details>
 <hr>
-<details><summary><h1>下载一键翻墙软件</summary></h1>
+<details><h1><summary>下载一键翻墙软件</summary></h1>
 <p><a href="https://github.com/SzzdOgate/update/raw/master/extras/SzzdOgate.apk?fldfh2">神州正道（手机版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p>
 <p><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/oGate.apk?fldfh2">网门（手机版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p>
 <p><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/um.apk?raw=true">无界浏览（手机版）</a></p>
@@ -32,7 +32,7 @@
 <p><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/SzzdOgateTV.apk?fldfh2">神州正道安卓（电视机顶盒版）</a></p>
 </details>
 <hr>
-<h1><details><summary><strong>国内看不到的新闻同步</strong></summary></h1>
+<details><h1><details><summary><strong>国内看不到的新闻同步</strong></summary></h1>
 <p><a target="_blank" href="https://github.com/liahn236/djy/blob/master/gb/nsc413.md?flntdtv#1">大纪元大陆时事</a></p>
 <p><a target="_blank" href="https://github.com/liahn236/djy/blob/master/gb/n24hr.md?flntdtv#1">大纪元全球热点</a></p>
 <p><a target="_blank" href="https://github.com/liahn236/djy/blob/master/gb/news392.md?flntdtv#1">大纪元时事评论</a></p>
