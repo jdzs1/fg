@@ -11,7 +11,7 @@
 <p><strong>个别浏览器打不开或没显示图片，请刷新一下，推荐用海外浏览器打开本平台</strong></p>
 <p><strong><a href="https://github.com/liahn236/ntdtv/blob/master/gb/contribute.md#1">新唐人电视台投稿</a>  <a href="https://github.com/liahn236/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>，本平台固定短网址 https://git.io/*8</strong></p>
 
-<details><summary><h1><p><strong>热门专题</strong></p></h1></summary>
+<h1><details><summary><strong>热门专题</strong></summary></h1>
 <p><a target="_blank" href="https://github.com/liahn236/ntdtv/blob/master/gb/442749_1.md?flntdtv#1">武汉肺炎疫情</a></p>
 <p><a target="_blank" href="https://github.com/liahn236/ntdtv/blob/master/gb/prog1745_1.md?flntdtv#1">中美贸易战</a></p>
 <p><a target="_blank" href="https://github.com/liahn236/ntdtv/blob/master/gb/prog205_1.md?flntdtv#1">香港反送中</a></p>
@@ -21,7 +21,7 @@
 <p><a target="_blank" href="https://github.com/liahn236/ntdtv/blob/master/gb/prog447_1.md?flntdtv#1">聚焦“中共活摘器官”暴行</a></p>
 </details>
 <hr>
-<h1><details><summary><strong>下载一键翻墙软件</strong><<</summary>/h1>
+<h1><details><summary><strong>下载一键翻墙软件</strong></summary></h1>
 <p><a href="https://github.com/SzzdOgate/update/raw/master/extras/SzzdOgate.apk?fldfh2">神州正道（手机版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p>
 <p><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/oGate.apk?fldfh2">网门（手机版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p>
 <p><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/um.apk?raw=true">无界浏览（手机版）</a></p>
@@ -32,7 +32,7 @@
 <p><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/SzzdOgateTV.apk?fldfh2">神州正道安卓（电视机顶盒版）</a></p>
 </details>
 <hr>
-<details><p><summary><h1><p><strong>国内看不到的新闻同步</strong></p></h1></summary>
+<h1><details><summary><strong>国内看不到的新闻同步</strong></summary></h1>
 <p><a target="_blank" href="https://github.com/liahn236/djy/blob/master/gb/nsc413.md?flntdtv#1">大纪元大陆时事</a></p>
 <p><a target="_blank" href="https://github.com/liahn236/djy/blob/master/gb/n24hr.md?flntdtv#1">大纪元全球热点</a></p>
 <p><a target="_blank" href="https://github.com/liahn236/djy/blob/master/gb/news392.md?flntdtv#1">大纪元时事评论</a></p>
@@ -42,7 +42,7 @@
 <p><a target="_blank" href="https://github.com/gfw-breaker/banned-news1/blob/master/README.md">世界各地新闻</a></p>
 </details>
  <hr>
-<details><p><summary><hr><h1><p>聚缘阁代理</p></h1></summary>
+<h1><details><summary><strong>聚缘阁代理</strong></summary></h1>
 <p>
 <a id="user-content-动态网高速入口" class="anchor" href="#%E5%8A%A8%E6%80%81%E7%BD%91%E9%AB%98%E9%80%9F%E5%85%A5%E5%8F%A3" aria-hidden="true"><svg class="octicon octicon-link" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><a href="http://df91.bmvl.ru/32587/2547" rel="nofollow">动态网高速入口</a><img src="https://raw.githubusercontent.com/hao369/a/master/jygdl.gif" alt="">
 </p>
