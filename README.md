@@ -11,7 +11,7 @@
 <p><strong>个别浏览器打不开或没显示图片，请刷新一下，推荐用海外浏览器打开本平台</strong></p>
 <p><strong><a href="https://github.com/liahn236/ntdtv/blob/master/gb/contribute.md#1">新唐人电视台投稿</a>  <a href="https://github.com/liahn236/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>，本平台固定短网址 https://git.io/*8</strong></p>
 
-<details><img src="https://github.com/mingop/f6f6dw/raw/master/img/2018-04-20_154812.jpg"><p><summary><h1><p><strong>热门专题</strong></p></h1></summary>
+<details><summary><img src="https://github.com/mingop/f6f6dw/raw/master/img/2018-04-20_154812.jpg"><h1><p><strong>热门专题</strong></p></h1></summary>
 <p><a target="_blank" href="https://github.com/liahn236/ntdtv/blob/master/gb/442749_1.md?flntdtv#1">武汉肺炎疫情</a></p>
 <p><a target="_blank" href="https://github.com/liahn236/ntdtv/blob/master/gb/prog1745_1.md?flntdtv#1">中美贸易战</a></p>
 <p><a target="_blank" href="https://github.com/liahn236/ntdtv/blob/master/gb/prog205_1.md?flntdtv#1">香港反送中</a></p>
