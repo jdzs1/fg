@@ -1,4 +1,4 @@
-<strong><h1>热门专题</h1></strong><p><details><summary></summary></p>
+<p><details><summary><strong><h1>热门专题</h1></strong></summary></p>
 <p><a target="_blank" href="https://github.com/liahn236/ntdtv/blob/master/gb/442749_1.md?flntdtv#1">武汉肺炎疫情</a></p>
 <p><a target="_blank" href="https://github.com/liahn236/ntdtv/blob/master/gb/prog1745_1.md?flntdtv#1">中美贸易战</a></p>
 <p><a target="_blank" href="https://github.com/liahn236/ntdtv/blob/master/gb/prog205_1.md?flntdtv#1">香港反送中</a></p>
