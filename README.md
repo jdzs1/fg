@@ -1,3 +1,4 @@
+<div align="center">
 <table><tr><td  align=center>
 <a name="1" id="1" target="_blank"></a> <span id="1"></span>
 <a name="2" id="2" target="_blank"></a> <span id="2"></span>
@@ -41,11 +42,6 @@
 <details><p><summary><a target="_blank" href="https://github.com/lduuv275/ntdtv/blob/master/gb/prog447_1.md?flntdtv#1">聚焦“中共活摘器官”暴行</a></p></summary></details>
 
 
-> 数据结构
->> 树
->>> 二叉树
->>>> 平衡二叉树
->>>>> 满二叉树
 <hr>
 <h1><p><strong>中国人权</strong></p></h1>
 <details><p><summary><a target="_blank" href="https://github.com/lduuv275/ntdtv/blob/master/gb/prog1135_1.md?fldflduuv275#1">新唐人大陆人权</a></p></summary>
@@ -62,3 +58,4 @@
 或被发往各国商务部，作为该企业产品是否参与中共情报和间谍活动的依据。<br>
 希望各企业,遵守国内宪法,秉承道义良知,不要阻止弱势群体的声音。<a target="_blank" href="https://github.com/lduuv275/djy/blob/master/gb/rq.md?fldflduuv275#1">企业的前车之鉴</a>
 </details></details></details></details>
+</div>
