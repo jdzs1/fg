@@ -40,6 +40,12 @@
 <details><p><summary><a target="_blank" href="https://github.com/lduuv275/ntdtv/blob/master/gb/prog1647_1.md?flntdtv#1">共产党百年真相</a></p></summary></details>
 <details><p><summary><a target="_blank" href="https://github.com/lduuv275/ntdtv/blob/master/gb/prog447_1.md?flntdtv#1">聚焦“中共活摘器官”暴行</a></p></summary></details>
 
+
+> 数据结构
+>> 树
+>>> 二叉树
+>>>> 平衡二叉树
+>>>>> 满二叉树
 <hr>
 <h1><p><strong>中国人权</strong></p></h1>
 <details><p><summary><a target="_blank" href="https://github.com/lduuv275/ntdtv/blob/master/gb/prog1135_1.md?fldflduuv275#1">新唐人大陆人权</a></p></summary>
