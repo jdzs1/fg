@@ -1,3 +1,4 @@
+<div align="center">
 <table><tr><td  align=center>
 <a name="1" id="1" target="_blank"></a> <span id="1"></span>
 <a name="2" id="2" target="_blank"></a> <span id="2"></span>
@@ -56,3 +57,4 @@
 或被发往各国商务部，作为该企业产品是否参与中共情报和间谍活动的依据。<br>
 希望各企业,遵守国内宪法,秉承道义良知,不要阻止弱势群体的声音。<a target="_blank" href="https://github.com/lduuv275/djy/blob/master/gb/rq.md?fldflduuv275#1">企业的前车之鉴</a>
 </details>
+</div>
